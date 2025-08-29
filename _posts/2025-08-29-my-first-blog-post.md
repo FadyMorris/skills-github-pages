@@ -33,6 +33,7 @@ Python, Machine Learning, Generative AI, Statistics, SQL, PyTorch, AWS SageMaker
 ## Work experience
 ### AI Engineer (Machine Learning and Generative AI) | Jendi.ai (London, United Kingdom)
 > (Jan 2025 -- Present)
+
 - **URL**: https://jendi.ai
 - **Skills**: Python, Machine Learning, AWS Lambda, AWS, PostgreSQL, Vim, Docker, Kubernetes
 - **Business or sector**: Software Engineering
@@ -44,6 +45,7 @@ Python, Machine Learning, Generative AI, Statistics, SQL, PyTorch, AWS SageMaker
 
 ### Technical Mentor - Generative AI and Machine Learning | Udacity (California, United States)
 > (Nov 2022 -- Present)
+
 - **URL**: https://www.udacity.com
 - **Skills**: Python, AWS, Machine Learning, PyTorch, AWS SageMaker, AWS Lambda, Git, Deep Learning, Linux
 - **Business or sector**: Professional Training
@@ -59,6 +61,7 @@ Python, Machine Learning, Generative AI, Statistics, SQL, PyTorch, AWS SageMaker
 
 ### Data Scientist | Egyptian Ministry of Heath (Alexandria, Egypt)
 > (Feb 2019 -- Aug 2024)
+
 - **URL**: https://www.mohp.gov.eg/
 - **Skills**: Python, Machine Learning, Data Pipelines, Pandas, Docker, Linux
 - **Business or sector**: Healthcare
@@ -74,6 +77,7 @@ Python, Machine Learning, Generative AI, Statistics, SQL, PyTorch, AWS SageMaker
 
 ### Postgraduate Teaching Assistant | Arab Academy for Science, Technology, and Maritime Transport (Alexandria, Egypt)
 > (Feb 2015 -- May 2024)
+
 - **URL**: https://aast.edu
 - **Skills**: Data Structures, Python, C, C++, Machine Learning, Git, LaTeX
 - **Business or sector**: Higher Education
@@ -82,6 +86,7 @@ Python, Machine Learning, Generative AI, Statistics, SQL, PyTorch, AWS SageMaker
 
 ### Machine Learning Instructor | Information Technology Institute (Alexandria, Egypt)
 > (Nov 2020 -- Nov 2021)
+
 - **URL**: https://iti.gov.eg/
 - **Skills**: Python, AWS, Machine Learning, PyTorch, AWS SageMaker, AWS Lambda, Git, Deep Learning, Linux
 - **Business or sector**: Professional Training
@@ -103,6 +108,7 @@ Python, Machine Learning, Generative AI, Statistics, SQL, PyTorch, AWS SageMaker
 ## Education and training
 ### Postgraduate Diploma in Computer Science (EQF level 7)
 > Feb 2013 -- Feb 2015
+
 - **College**: College of Computing and Information Technology
 - **University**: Arab Academy for Science, Technology, and Maritime Transport Alexandria, Egypt
 - **CGPA**: 4.0 / 4.0
